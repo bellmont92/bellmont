@@ -1,0 +1,7 @@
+let's create a chat room in python.
+
+it has to be:
+1) accessible by console
+2) you can create a username and password
+3) You can log in and log out
+4) when people "log in" they can read anything that anybody else types in the chatroom
